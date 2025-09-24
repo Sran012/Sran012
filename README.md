@@ -5,13 +5,10 @@
 <h3 align="left">Building Web Apps |  Using modern technologies..</h3>
 
 ###
-
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Sran012.Sran012&"  />
 <img align="left" src="https://komarev.com/ghpvc/?username=Sran012&label=Profile%20views&color=0e75b6&style=flat" alt="Sujalrana" />
+
 [![wakatime](https://wakatime.com/badge/user/a642aed0-f78b-43d4-a085-754106f4a2a8.svg)](https://wakatime.com/@a642aed0-f78b-43d4-a085-754106f4a2a8)
-
-###
-
 <br clear="both">
 
 <h3 align="left">🧛🏻 About Me</h3>
@@ -79,4 +76,5 @@
 </div>
 
 ###
+
 
