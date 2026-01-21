@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Building Web Apps |  Using modern technologies..</h3>
+<h3 align="left">Building Web Apps and cool UIs</h3>
 
 ###
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Sran012.Sran012&"  />
@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">- 🔭 Getting errors since years.<br>- 📚 I'm currently learning kubernetes..<br>- 🛸 Goal : Developing production-ready apps...<br>- ⚡ Open to work....</p>
+<p align="left">- 🔭 Getting errors since years.<br>- 📚 I'm currently learning Vim..<br>- 🛸 Goal : Developing production-ready apps...<br>- ⚡ Open to work....</p>
 
 ###
 
