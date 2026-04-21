@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">- 🔭 Getting errors since years.<br>- 📚 I'm currently learning Vim..<br>- 🛸 Goal : Developing production-ready apps...<br>- ⚡ Open to work....</p>
+<p align="left">- 🔭 Getting errors since years.<br>- 📚 I'm currently learning low-level stuffs..<br>- 🛸 Goal : Developing production-ready apps...<br>- ⚡ Open to work....</p>
 
 ###
 
